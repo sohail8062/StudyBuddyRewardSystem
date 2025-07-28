@@ -119,3 +119,4 @@ MIT License - see LICENSE file for details.
 ---
 
 *Building the future of education, one study session at a time! 🚀📚*
+<img width="1267" height="685" alt="Screenshot 2025-07-28 124024" src="https://github.com/user-attachments/assets/c702e678-f163-446f-a80d-f500f8b4a129" />
