@@ -108,7 +108,7 @@ truffle migrate --network development
 ---
 
 ## Contract Address
-*To be updated after deployment*
+0xb98FFE9EcC4B892e36506850A0d578e68773c67e
 
 ## Contributing
 We welcome contributions! Please read our contributing guidelines and submit pull requests for any improvements.
